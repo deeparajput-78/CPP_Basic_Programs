@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int n ,i;
+    cout<<"enter a number:";
+    cin>>n;
+    for(i=n/2; i>=1; i--){
+     if(n%i==0){
+        cout<<i<<endl;
+    }
+    return 0;
+}
+}
