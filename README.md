@@ -3,6 +3,16 @@
 This repository contains basic C++ programs for beginners. It is designed to help students understand fundamental programming concepts and improve their coding skills through practice.
 
 ## Topics Covered
+│
+├── Basics/
+├── Loops/
+├── Functions/
+├── Arrays/
+├── Strings/
+├── Pointers/
+├── OOP/
+└── File_Handling/
+
 
 - Input and Output
 - Variables and Data Types
@@ -23,3 +33,4 @@ This repository contains basic C++ programs for beginners. It is designed to hel
 - Basic knowledge of computers
 - C++ Compiler (GCC, MinGW, Turbo C++, or any modern IDE)
    git clone https://github.com/your-username/cpp_basics_programs.git
+  cpp_basics_programs/
